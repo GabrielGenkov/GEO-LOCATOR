@@ -1,0 +1,13 @@
+/ai_project.iml
+/.env
+
+__pycache__/
+*.pyc
+
+venv/
+
+.vscode/
+.idea/
+*.sublime*
+
+*.log
